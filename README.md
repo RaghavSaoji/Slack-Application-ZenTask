@@ -11,6 +11,7 @@ Step 3 : From  slack appication:
           -Update Bearer token of application
           
 Step 4: In slack application feature:
+
         - Select Slash command feature add values as:
          1)
           .use command as /zentask
@@ -19,6 +20,7 @@ Step 4: In slack application feature:
          2) 
           .also add /list slash command 
           .in url -> "(your url)/list"
+          
           
        -Also add Interactive component feature
         .In url -> "(your url)/task/response"
