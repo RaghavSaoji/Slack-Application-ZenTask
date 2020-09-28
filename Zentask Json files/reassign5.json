@@ -1,0 +1,32 @@
+{
+	"blocks": [
+		{
+			"type": "divider"
+		},
+		{
+			"type": "header",
+			"text": {
+				"type": "plain_text",
+				"text": "Task Reassigned",
+				"emoji": true
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Task-5"
+			},
+			"accessory": {
+				"type": "button",
+				"text": {
+					"type": "plain_text",
+					"text": "Done",
+					"emoji": true
+				},
+				"style": "primary",
+				"value": "5"
+			}
+		}
+	]
+}
